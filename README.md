@@ -4,7 +4,7 @@
 
 # Official Website
 
-[http://frugaltesting.com/](http://frugaltesting.com/)
+[Official Website](http://frugaltesting.com/)
 
 
 
